@@ -1,1 +1,3 @@
-print("git is awesome in issue-1")
+user_input = input("Enter your middle name: ")
+
+print(user_input)
